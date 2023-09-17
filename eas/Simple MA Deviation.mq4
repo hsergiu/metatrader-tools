@@ -82,7 +82,7 @@ double getCurrentPrice() {
    return -1;
 }
 
-// Functionality ==================================================
+// MA stats ==================================================
 
 int getCandlesMA(double ma) {
    int nrCandles = -1;

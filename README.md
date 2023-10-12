@@ -4,7 +4,7 @@
 - [Expert advisors](#expert-advisors)
 
 ## Indicators
-`CrosshairRiskPercentage` can be useful for calculating the lot size by moving your crosshair to where the a Stop Loss will be for a sell/buy corresponding to the percentage of the account balance you want to risk. If you want to do this for a pending order, then double click the chart and a new line is created at the ref price and based on this price, you will get the lot. Click again to undo the line.
+`CrosshairRiskPercentage` can be useful for calculating the lot size by moving your crosshair to where the Stop Loss will be for a sell/buy corresponding to the percentage of the account balance you want to risk. If you want to do this for a pending order, then double click the chart and a new line is created at the ref price and based on this price, you will get the lot. Click again to undo the line.
 
 `Inputs:`
 
